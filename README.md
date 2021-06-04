@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+webpage sample:
+(https://gerodrig.github.io/react-gifApp/)
+
 ## Available Scripts
 
 In the project directory, you can run:

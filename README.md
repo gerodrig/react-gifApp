@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-webpage sample:
-(https://gerodrig.github.io/react-gifApp/)
+# Webpage sample:
+[Click to check the sample](https://gerodrig.github.io/react-gifApp/)
 
 ## Available Scripts
 
